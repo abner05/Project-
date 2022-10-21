@@ -1,6 +1,22 @@
 # Project-
 Study notes 
 
+What happed In DevOps in a company 
+ Source code like java, .net, node JS react js 
+This code we are  going  to take   process  with CICD pipe line 
+Here we are  going to  build  ,compiling , testing  and  versioning 
+Then we going  deploy in the target  environment  
+ VM, Docker container, K8S cluster 
+  
+Source code  - software tools  then  we  need  server 
+
+Source- git hub 
+Severs -  go to   cloud   environment 
+Open source or  free style 
+
+
+
+
 DevOps For Beginners: Step-by-Step Activity Guide (Hands-on Lab)
 
 Lab 1: How to setup the GitHub and Git local 
