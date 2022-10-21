@@ -1,6 +1,9 @@
 # Project-
 Study notes 
 
+https://www.youtube.com/watch?v=hIoMoEEPT4c
+
+
 What happed In DevOps in a company 
  Source code like java, .net, node JS react js 
 This code we are  going  to take   process  with CICD pipe line 
